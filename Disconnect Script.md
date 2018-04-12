@@ -1,96 +1,288 @@
 ## Performativity
 > Things start jovial and theatrical. L and R are on a couple of beers, nursing another. They recently left their reunion group. They're climbing onto parts of L's roof. 
 
-- L: Here, I want you to check this part out!
+	L
+
+Here, I want you to check this part out!
 	- *both climb ledge to roof section, bagged beers in hand*
-- R: This is awesome. Got a nice dingy feel to it.
-- L: Right? Gotta make up for the rent somehow. Come on.
+
+	R
+
+This is awesome. Got a nice dingy feel to it.
+
+	L
+
+Right? Gotta make up for the rent somehow. Come on.
 	- *L leads R to spot, sits upon it. R follows suite*
-- L: Hey- can I tell you something?
-- R: Yeah-
+
+	L
+
+Hey- can I tell you something?
+
+	R
+
+Yeah-
 	- *(laughing)*
-- L: You're so full of shit. *Please* tell me you're not still like this around other people.
-- R: Full of shit? That's quite the accusation
+
+	L
+
+You're so full of shit. *Please* tell me you're not still like this around other people.
+
+	R
+
+Full of shit? That's quite the accusation
 	- *(still laughing)*
-- L: Ugh you're trying *so* hard to be all, like, brooding and, artsy, and shit. 
+
+	L
+
+Ugh you're trying *so* hard to be all, like, brooding and, artsy, and shit. 
 	- *(eye roll)*
-- L: Dude. You know they all, like, know who you are, right?
+
+	L
+
+Dude. You know they all, like, know who you are, right?
 	- *(feigning indignance)*
-- R: Well *excuse* you. First of all, fuck you.
+
+	R
+
+Well *excuse* you. First of all, screw you.
 	- *(laughter from L)*
-- R: I may be full of shit but so is everyone else. So *perhaps* I may not have changed in that respect. 
+
+	R
+
+I may be full of shit but so is everyone else. So *perhaps* I may not have changed in that respect. 
 	- *(gets up to face L)*
-- R: But all the world's a stage, right?-
-- L: Oh no not this shit.
-- R: No, no, listen: what difference does it make? Why not live it up a little and have a little fun? I'm probably not gonna see these bozos again, so who gives an absolute damn if I alienate *or* impress them? 
-- L: Well, clearly you give an "absolute" damn about these bozos.
-- R: Yes, yes I do. I didn't think I'd get crucified for it. Anyways, I wasn't lying about anything back there. I'll concede your charges of performativity but I'm a man of my word.
-- L: Bullshit. You were yapping on and on about their "normie" beer. You don't even drink beer. You're literally sipping a Natty light right now.
-- R: Well, that much is true. It appears you still get off on trying to get a rise out of people.
-- L: No, just you, but yes! I'm still a piece of shit! But also, before we drop this, I think it's important to point out that you're totally just projecting. I don't think anyone else at that table was trying as hard as you were.
-- R: Fuck that. You only saw through my... charade because you know me as well as you do. 
+
+	R
+
+But all the world's a stage, right?-
+
+	L
+
+Oh no not this shit.
+
+	R
+
+No, no, listen: what difference does it make? Why not live it up a little and have a little fun? I'm probably not gonna see these bozos again, so who gives an absolute damn if I alienate *or* impress them? 
+
+	L
+
+Well, clearly you give an "absolute" damn about these bozos.
+
+	R
+
+Yes, yes I do. I didn't think I'd get crucified for it. Anyways, I wasn't lying about anything back there. I'll concede your charges of performativity but I'm a man of my word.
+
+	L
+
+Bullshit. You were yapping on and on about their "normie" beer. You don't even drink beer. You're literally sipping a Natty light right now.
+
+	R
+
+Well, that much is true. It appears you still get off on trying to get a rise out of people.
+
+	L
+
+No, just you, but yes! I'm still a piece of shit! But also, before we drop this, I think it's important to point out that you're totally just projecting. I don't think anyone else at that table was trying as hard as you were.
+
+	R
+
+Fuck that. You only saw through my... charade because you know me as well as you do. 
 	*(overlapped)*:
-- L: Because I know you better than them yeah yeah. I'm still saying you're pretentious as ever. Anyways how's-
-- R: Hey now, I'm not dropping this. The difference between... reunions, first dates, interviews, is only of degree: no one's "themselves" except around their like 3 best friends. You perform too, you just haven't ever listened to yourself speak.
+
+	L
+
+Because I know you better than them yeah yeah. I'm still saying you're pretentious as ever. Anyways how's-
+
+	R
+
+Hey now, I'm not dropping this. The difference between... reunions, first dates, interviews, is only of degree: no one's "themselves" except around their like 3 best friends. You perform too, you just haven't ever listened to yourself speak.
 	*(L knocks over beer as they say this)*
-- L: Dude, that's just straight up not true.
+
+	L
+
+Dude, that's just straight up not true.
 	*(R grabs the beer)*
-- R: Hey watch out!
+
+	R
+
+Hey watch out!
 	*(takes a sip before handing it back w/ shit-eating grin)*
 	*(L punches R in arms)*
 
 ## Moms
 > They're at a different part of the roof. They're talking about L's mom.
 
-- L: You know, I like never learned how to be nice to my mom the way you were. She really liked you but that's probably because you constantly validated the shit out of her.
-- R: I mean, I'm just a nice person. Perhaps you could learn a thing or two from me.
-- L: You? You're the fucking grinch, dude, with literally anyone else, including me. And your own mom. But anyways, yeah she's doing ok despite her daughter never picking up.
-- R: Ah the mommy issues have yet to be resolved eh?
-- L: Not in the year since I heard your last mommy issue joke, no.
-- R: How's the card making venture?
-- L: Tanked. She's running a bakery now though. Dad's ok footing the bill, as long as she's not home.
+
+	L
+
+You know, I like never learned how to be nice to my mom the way you were. She really liked you but that's probably because you constantly validated the shit out of her.
+
+	R
+
+I mean, I'm just a nice person. Perhaps you could learn a thing or two from me.
+
+	L
+
+You? You're the fucking grinch, dude, with literally anyone else, including me. And your own mom. But anyways, yeah she's doing ok despite her daughter never picking up.
+
+	R
+
+Ah the mommy issues have yet to be resolved eh?
+
+	L
+
+Not in the year since I heard your last mommy issue joke, no.
+
+	R
+
+How's the card making venture?
+
+	L
+
+Tanked. She's running a bakery now though. Dad's ok footing the bill, as long as she's not home.
 	- *(Overlapping)*
-- R: As long as she's not bored or depressed.
-- L: Yeah. That. She's actually doing well. Her bubbliness comes out better baking than in her christmas greetings I guess. She keeps trying to get me to work there when I visit but fuck that.
-- R: Oh wait I left my beer back there.
-- L: Hey uh, Kim told me about your Mom.
-- R: Yeah
-- L: Yeah. I'm sorry. I wish I was there around then.
-- R: No it's ok. It's all good. She was honestly doing Ok. By the end she had, ya know, accepted everything, and made her amends, and she was surrounded by people who loved her and all her friends. My dad came down and stayed with her and for a while it was the closest we'd been as a family for a while. She wasn't exactly looking forward to dying but she wasn't heartbroken. I guess that's the sort of thing you feel when you're first diagnosed I suppose. After a few months it's a little easier to accept things. Maybe by the end you start enjoying
+
+	R
+
+As long as she's not bored or depressed.
+
+	L
+
+Yeah. That. She's actually doing well. Her bubbliness comes out better baking than in her christmas greetings I guess. She keeps trying to get me to work there when I visit but fuck that.
+
+	R
+
+Oh wait I left my beer back there.
+
+	L
+
+Hey uh, Kim told me about your Mom.
+
+	R
+
+Yeah
+
+	L
+
+Yeah. I'm sorry. I wish I was there around then.
+
+	R
+
+No it's ok. It's all good. She was honestly doing Ok. By the end she had, ya know, accepted everything, and made her amends, and she was surrounded by people who loved her and all her friends. My dad came down and stayed with her and for a while it was the closest we'd been as a family for a while. She wasn't exactly looking forward to dying but she wasn't heartbroken. I guess that's the sort of thing you feel when you're first diagnosed I suppose. After a few months it's a little easier to accept things. Maybe by the end you start enjoying
 
 ## Indie rock festival
 
-- R: Remember how we'd talked about making the trip to Penn to see that Plumbum, Kissers and Rosemary Hearse festival?
-- L: Haha yeah that shit, did you end up going?
-- R: Yes I did end up going to that shit, thank you very much.
-- L: Awesome. I mean I can just like tell you now I was never actually gonna go but hey I'm glad you saw them.
-- R: That's not quite the reaction I was expecting.
-- L: Oh right you want me to kiss your feet and apologize for not liking your hipster indie music enough to go to a 6 hour concert with you, right?
-- R: Yes I'd like that but since I won't get it your edginess will suffice. Anyways I made the trip-
-- L: By yourself?
-- R: Yes by myself. And so I went right. It's absolutely pouring, and, my car- I rented this hourly thing- is the most hidious shit and has absolutely no space.and saw them and it was fucking excellent.
-- L: That's awesome!
-- R: Yeah and you won't believe who opened for Plumbum.
+
+	R
+
+Remember how we'd talked about making the trip to Penn to see that Plumbum, Kissers and Rosemary Hearse festival?
+
+	L
+
+Haha yeah that shit, did you end up going?
+
+	R
+
+Yes I did end up going to that shit, thank you very much.
+
+	L
+
+Awesome. I mean I can just like tell you now I was never actually gonna go but hey I'm glad you saw them.
+
+	R
+
+That's not quite the reaction I was expecting.
+
+	L
+
+Oh right you want me to kiss your feet and apologize for not liking your hipster indie music enough to go to a 6 hour concert with you, right?
+
+	R
+
+Yes I'd like that but since I won't get it your edginess will suffice. Anyways I made the trip-
+
+	L
+
+By yourself?
+
+	R
+
+Yes by myself. And so I went right. It's absolutely pouring, and, my car- I rented this hourly thing- is the most hidious shit and has absolutely no space.and saw them and it was fucking excellent.
+
+	L
+
+That's awesome!
+
+	R
+
+Yeah and you won't believe who opened for Plumbum.
 	- *(attempted dramatic pause)*
-- R: Fucking Dirty Socks.
-- L: Oh shit! I haven't even seen them! Dude how were they!?
-- R: Not as good as Plumbum, but the singer dude crowd surfed for like 10 minutes.
-- L: Yeah?
-- R: He yelled something about catharsis and jumped off at the end of *You've Got a Thang Goin On*. The dude 
+
+	R
+
+Fucking Dirty Socks.
+
+	L
+
+Oh shit! I haven't even seen them! Dude how were they!?
+
+	R
+
+Not as good as Plumbum, but the singer dude crowd surfed for like 10 minutes.
+
+	L
+
+Yeah?
+
+	R
+
+He yelled something about catharsis and jumped off at the end of *You've Got a Thang Goin On*. The dude 
 
 ## Automation
 
-- R: You're gonna be personally responsible for the downfall of human society.
-- L: I wish. If I had that much influence I'd probably be paid more.
-- R: You're paid pretty well.
-- L: That's true. Anyways, we're at the point of no return, dude. It doesn't matter what one company or engineer does, most repetitive jobs are going to be automated. The question is of time.
-- R: But what are people supposed to do? What's gonna happen?
-- L: I can't tell you that and I don't think anyone can. Nothing has changed since the last time we had this exact conversation. You're probably safe dude, even if we have AIs that can generate "art" people are unlikely to trust or give value to them.
-- R: It's not just me. People like you don't have to worry about this stuff but there are so many people out there who are gonna get fucked-
-- L: People like me? Dude when was the last time you read the news? Engineers are losing jobs left and right to outsourcing and machine learning. The number of engineers and CS grads is fucking exploding dude. I have to prove myself at work every day so I don't get replaced by every fucking teenager who walks in with an online diploma asking for half my pay. You don't have to deal with that. You've already established yourself. No AI is going to steal your job or any of your friends-
-- R: Look, I'm sorry. You're right, you're right. I don't know about the climate of your industry. I'm just saying that it's not about me, its about the other people in the world, in this country.
-- L: Ok, fine. It'll be tough. Our dumbass government is completely ill-prepared for this collosal industrial revolution that's going to do who knows what to our economy. I really don't think it's fair that you're pinning it on me.
 
+	R
+
+You're gonna be personally responsible for the downfall of human society.
+
+	L
+
+I wish. If I had that much influence I'd probably be paid more.
+
+	R
+
+You're paid pretty well.
+
+	L
+
+That's true. Anyways, we're at the point of no return, dude. It doesn't matter what one company or engineer does, most repetitive jobs are going to be automated. The question is of time.
+
+	R
+
+But what are people supposed to do? What's gonna happen?
+
+	L
+
+I can't tell you that and I don't think anyone can. Nothing has changed since the last time we had this exact conversation. You're probably safe dude, even if we have AIs that can generate "art" people are unlikely to trust or give value to them.
+
+	R
+
+It's not just me. People like you don't have to worry about this stuff but there are so many people out there who are gonna get fucked-
+
+	L
+
+People like me? Dude when was the last time you read the news? Engineers are losing jobs left and right to outsourcing and machine learning. The number of engineers and CS grads is fucking exploding dude. I have to prove myself at work every day so I don't get replaced by every fucking teenager who walks in with an online diploma asking for half my pay. You don't have to deal with that. You've already established yourself. No AI is going to steal your job or any of your friends-
+
+	R
+
+Look, I'm sorry. You're right, you're right. I don't know about the climate of your industry. I'm just saying that it's not about me, its about the other people in the world, in this country.
+
+	L
+
+Ok, fine. It'll be tough. Our dumbass government is completely ill-prepared for this collosal industrial revolution that's going to do who knows what to our economy. I really don't think it's fair that you're pinning it on me.
+
+## AI Hate You
 
 	R
 
@@ -104,7 +296,9 @@ I didn't have him listen it's just always-
 
 Always on? Of course you keep it always right by your ear yeah? Does it get jealous too? You ever fuck her, you robotic fuck, do you know what that feels like? Do you even know what it feels like to- to know that I did? 
 
-- C: This isn't nec-
+	C
+
+This isn't nec-
 
 	L
 
@@ -227,7 +421,7 @@ No, you'd never admit to anything if I didn't. You- you complain and you- you pe
 
 	R
 
-Stop it. You... don't... get to talk to me that way.
+Stop it. You... don't get to talk to me that way.
 
 	L
 
@@ -235,7 +429,7 @@ Yeah I... probably don't. But you pick these fights better than anyone else does
 
 	R
 
-Thanks, that's... what I aspire to. That was a lot, L.
+Maybe I'm feeling a little more inspired to. That was messed up, L.
 
 	L sighs
 	L
@@ -244,29 +438,38 @@ Yeah. You're - you're right. I'm sorry.
 
 	R
 
-Yeah I'm sorry- I - uh - yeah.
+I'm not hurt by what you said. I'm more hurt that you tried.
 
 	L
 
-Yeah, we had a lot of fucking issues.
+As if. You know you're upset as fuck because everything I said was the fucking truth, dude.
 
 	R
 
-I don't want to admit that everything I was saying was... well- you summed it up, I guess. But I'd be lying if I told you it... hurt for any reason other than it being, well... a, uh, pretty fucking accurate.
+Yeah yeah you got a lil riled up and you felt like playing psychologist or wife or something. 
+	
+	R shrugs
+	R
 
+I guess you have the ovaries now to bite back.
+	
+	L laughs snidely
 	L
 
-Yeah- no I uh... yeah I'm sorry. I got just as defensive, maybe more so, than you did and I just mouthed off some stuff I never really had the ovaries to say I guess.
+Well, looks like all that validation is working.
 
 	R
 
-Well, looks like the AI validation is working.
-
-	L laughs
+Well if it works for you I suppose you're entitled to feel a little empowered. But what you did was still pretty fucked up.
 
 	L
 
-No shame here, if it works. It works. I guess I should have seen this coming. I guess the most fucked up thing is that I know - knew - exactly the kind of person you are. And I knew it then and I- I um- I never really considered that- these parts of your personality that I knew needed to be taken care of and paid attention to and I didn't
+Okay... but I feel like you're forgetting that you just attacked me for my fucking boyfriend like a minute ago?
+
+
+
+
+
 
 	R
 
