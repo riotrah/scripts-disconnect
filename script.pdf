@@ -36,7 +36,7 @@ endobj
 endobj
 3 0 obj
 <<
-/Length 768
+/Length 656
 >>
 stream
 1 0 0 -1 0 841.89 cm
@@ -97,18 +97,6 @@ BT
 <232b292b25232b2c2d2b272e2f2430263132332d> Tj
 ET
 Q
-/DeviceRGB cs
-0 0 0 scn
-/Gs1 gs
-f
-q
-1 0 0 -1 0 841.89 cm
-BT
-360 209.5595999999999 Td
-/F2 12 Tf
-<343434> Tj
-ET
-Q
 
 endstream
 endobj
@@ -135,7 +123,7 @@ endobj
 endobj
 10 0 obj
 <<
-/Length 7137
+/Length 6990
 >>
 stream
 1 0 0 -1 0 841.89 cm
@@ -146,9 +134,9 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-252 761.562 Td
+108 761.562 Td
 /F2 12 Tf
-<343434> Tj
+<34353631212a373738363739213a2139342a38372a3b3c363d3e3d363f> Tj
 ET
 Q
 /DeviceRGB cs
@@ -160,7 +148,7 @@ q
 BT
 108 737.5572 Td
 /F2 12 Tf
-<35363731212a38383937383a213b213a352a39382a3c3d373e3f3e3740> Tj
+<402b2d26232b21412b322642212c24432c26232123333341212f2644432631> Tj
 ET
 Q
 /DeviceRGB cs
@@ -170,9 +158,9 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-108 713.5524 Td
+252 713.5524 Td
 /F2 12 Tf
-<412b2d26232b21422b322643212c24442c26232123333342212f2645442631> Tj
+<4546343836> Tj
 ET
 Q
 /DeviceRGB cs
@@ -182,9 +170,9 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-252 689.5476 Td
+180 701.55 Td
 /F2 12 Tf
-<4647353937> Tj
+<4726232648213d21492b27252129334a21253321322c26324b21252c2442214c2b2325> Tj
 ET
 Q
 /DeviceRGB cs
@@ -194,9 +182,9 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-180 677.5452 Td
+180 689.5476 Td
 /F2 12 Tf
-<4826232649213e214a2b27252129334b21253321322c26324c21252c2443214d2b2325> Tj
+<334a254d> Tj
 ET
 Q
 /DeviceRGB cs
@@ -206,9 +194,21 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-180 665.5428 Td
+108 665.5428 Td
 /F2 12 Tf
-<334b254e> Tj
+<454634383621322f242d284221242725332130242649214123332d212f33492623212f2630262f21334121233333412133272533212b> Tj
+ET
+Q
+/DeviceRGB cs
+0 0 0 scn
+/Gs1 gs
+f
+q
+1 0 0 -1 0 841.89 cm
+BT
+108 653.5404 Td
+/F2 12 Tf
+<2c24432c2623213327263121402b2d26232b2141232b2d2642212c262321322f242d2824274348212b274421252c2621282b324b213341> Tj
 ET
 Q
 /DeviceRGB cs
@@ -220,7 +220,7 @@ q
 BT
 108 641.538 Td
 /F2 12 Tf
-<464735393721322f242d28432124272533213024264a214223332d212f334a2623212f2630262f21334221233333422133272533212b> Tj
+<332726212f2643213327322621422c264e4221254a23272644212b23334a2744212533212c262f4c21452a3d4f4736214a4c31> Tj
 ET
 Q
 /DeviceRGB cs
@@ -230,9 +230,9 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-108 629.5356 Td
+252 617.5332000000001 Td
 /F2 12 Tf
-<2c24442c2623213327263121412b2d26232b2142232b2d2643212c262321322f242d2824274449212b274521252c2621282b324c213342> Tj
+<452a3d4f4736> Tj
 ET
 Q
 /DeviceRGB cs
@@ -242,9 +242,9 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-108 617.5332000000001 Td
+180 605.5308 Td
 /F2 12 Tf
-<332726212f2644213327322621432c264f4321254b23272645212b23334b2745212533212c262f4d21462a3e504837214b4d31> Tj
+<362c2442212442212b492642332d2631214f3325212b2127243226214424274329> Tj
 ET
 Q
 /DeviceRGB cs
@@ -254,9 +254,9 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-252 593.5284 Td
+180 593.5284 Td
 /F2 12 Tf
-<462a3e504837> Tj
+<4126262f21253321242531> Tj
 ET
 Q
 /DeviceRGB cs
@@ -266,9 +266,9 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-180 581.5260000000001 Td
+252 569.5236 Td
 /F2 12 Tf
-<372c2443212443212b4a2643332d263121503325212b2127243226214524274429> Tj
+<4546343836> Tj
 ET
 Q
 /DeviceRGB cs
@@ -278,9 +278,9 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-180 569.5236 Td
+180 557.5212 Td
 /F2 12 Tf
-<4226262f21253321242531> Tj
+<2a24432c2550214f3325252b212d2b4b26214a4c2141332321252c262123262725> Tj
 ET
 Q
 /DeviceRGB cs
@@ -290,9 +290,9 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-252 545.5188 Td
+180 545.5188 Td
 /F2 12 Tf
-<4647353937> Tj
+<42332d262c3349312140332d2621332731> Tj
 ET
 Q
 /DeviceRGB cs
@@ -302,9 +302,9 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-180 533.5164000000001 Td
+108 521.514 Td
 /F2 12 Tf
-<2a24442c255121503325252b212d2b4c26214b4d2142332321252c262123262725> Tj
+<4626434221492b2f4b21334141214232232626273121402b2d26232b2144262f2b294221282641332326214c2b2727242743212533492b234442> Tj
 ET
 Q
 /DeviceRGB cs
@@ -314,9 +314,9 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-180 521.514 Td
+108 509.51160000000004 Td
 /F2 12 Tf
-<43332d262c334a312141332d2621332731> Tj
+<252c262d212b27442141332f2f3349242743214c233351242d2b2f2f292128262c24274431214546343836212f262b444221452a3d4f4736> Tj
 ET
 Q
 /DeviceRGB cs
@@ -328,7 +328,7 @@ q
 BT
 108 497.5092 Td
 /F2 12 Tf
-<47264443214a2b2f4c21334242214332232626273121412b2d26232b2145262f2b294321282642332326214d2b27272427442125334a2b234543> Tj
+<253321233333412126444326482142242542214a4c3327212425212f264321333026233121452a3d4f47362141332f2f334942> Tj
 ET
 Q
 /DeviceRGB cs
@@ -340,37 +340,13 @@ q
 BT
 108 485.50680000000006 Td
 /F2 12 Tf
-<252c262d212b27452142332f2f334a242744214d233352242d2b2f2f292128262c24274531214647353937212f262b454321462a3e504837> Tj
-ET
-Q
-/DeviceRGB cs
-0 0 0 scn
-/Gs1 gs
-f
-q
-1 0 0 -1 0 841.89 cm
-BT
-108 473.50440000000003 Td
-/F2 12 Tf
-<253321233333422126454426492143242543214b4d3327212425212f264421333026233121462a3e5048372142332f2f334a43> Tj
-ET
-Q
-/DeviceRGB cs
-0 0 0 scn
-/Gs1 gs
-f
-q
-1 0 0 -1 0 841.89 cm
-BT
-108 461.50200000000007 Td
-/F2 12 Tf
-<434b242526> Tj
+<424a242526> Tj
 ET
 Q
 q
 1 0 0 -1 0 841.89 cm
 BT
-144 461.50200000000007 Td
+144 485.50680000000006 Td
 /F4 12 Tf
 <212223242526272825292a2b222a28282c272d2e22282f3031223230332831302229272626272d2e223428352d212232282636> Tj
 ET
@@ -382,7 +358,7 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-108 449.4996 Td
+108 473.50440000000003 Td
 /F4 12 Tf
 <2a302e29223128283329273430372238312730332229272a302d2330223536272a3022393a3b3c3d3e222a28282c29> Tj
 ET
@@ -394,7 +370,7 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-108 437.4972 Td
+108 461.50200000000007 Td
 /F4 12 Tf
 <272d2630313f272626302d262a2b22242622242d34222435242b223331283f22394041423e22242922293630222a28282c2922283333> Tj
 ET
@@ -406,7 +382,7 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-108 425.49480000000005 Td
+108 449.4996 Td
 /F4 12 Tf
 <323033283130222625312d272d2e2226282236273f37> Tj
 ET
@@ -418,7 +394,7 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-252 401.49000000000007 Td
+252 425.49480000000005 Td
 /F4 12 Tf
 <394041423e> Tj
 ET
@@ -430,7 +406,7 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-216 389.48760000000004 Td
+216 413.49240000000003 Td
 /F4 12 Tf
 <4344272636223f2729233627302f282529222e31272d45> Tj
 ET
@@ -442,7 +418,7 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-180 377.4852 Td
+180 401.49000000000007 Td
 /F4 12 Tf
 <3d302b372246242d223b2226302a2a222b28252229283f302636272d2e47> Tj
 ET
@@ -454,7 +430,7 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-252 353.48040000000003 Td
+252 377.4852 Td
 /F4 12 Tf
 <393a3b3c3d3e> Tj
 ET
@@ -466,7 +442,7 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-180 341.47800000000007 Td
+180 365.48280000000005 Td
 /F4 12 Tf
 <4830243647> Tj
 ET
@@ -478,7 +454,7 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-252 317.4732 Td
+252 341.47800000000007 Td
 /F4 12 Tf
 <394041423e> Tj
 ET
@@ -490,7 +466,7 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-216 305.47080000000005 Td
+216 329.47560000000004 Td
 /F4 12 Tf
 <434024252e36272d2e45> Tj
 ET
@@ -502,7 +478,7 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-180 293.4684000000001 Td
+180 317.4732 Td
 /F4 12 Tf
 <4828252224313022> Tj
 ET
@@ -510,15 +486,15 @@ Q
 q
 1 0 0 -1 0 841.89 cm
 BT
-237.6 293.4684000000001 Td
+237.6 317.4732 Td
 /F2 12 Tf
-<4333> Tj
+<4233> Tj
 ET
 Q
 q
 1 0 0 -1 0 841.89 cm
 BT
-252 293.4684000000001 Td
+252 317.4732 Td
 /F4 12 Tf
 <2233252a2a22283322293627263722> Tj
 ET
@@ -526,9 +502,9 @@ Q
 q
 1 0 0 -1 0 841.89 cm
 BT
-360 293.4684000000001 Td
+360 317.4732 Td
 /F2 12 Tf
-<3a2f262b4326> Tj
+<392f262b4226> Tj
 ET
 Q
 /DeviceRGB cs
@@ -538,7 +514,7 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-180 281.466 Td
+180 305.47080000000005 Td
 /F4 12 Tf
 <26302a2a223f30222b2825493130222d2826222926272a2a222a272c302226362729> Tj
 ET
@@ -550,7 +526,7 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-180 269.46360000000004 Td
+180 293.4684000000001 Td
 /F4 12 Tf
 <243128252d34222826363031224a30284a2a3037> Tj
 ET
@@ -562,7 +538,7 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-252 245.45880000000008 Td
+252 269.46360000000004 Td
 /F4 12 Tf
 <393a3b3c3d3e> Tj
 ET
@@ -574,7 +550,7 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-180 233.4564 Td
+180 257.46119999999996 Td
 /F4 12 Tf
 <42252a2a222833222936272647223e3624264929224b2527263022263630> Tj
 ET
@@ -586,7 +562,7 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-180 221.45400000000004 Td
+180 245.45880000000008 Td
 /F4 12 Tf
 <2423232529242627282d4c> Tj
 ET
@@ -598,7 +574,7 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-252 197.4492 Td
+252 221.45400000000004 Td
 /F4 12 Tf
 <394041423e> Tj
 ET
@@ -610,7 +586,7 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-216 185.44680000000002 Td
+216 209.45160000000007 Td
 /F4 12 Tf
 <434d26272a2a222a24252e36272d2e45> Tj
 ET
@@ -622,7 +598,7 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-180 173.44440000000006 Td
+180 197.4492 Td
 /F4 12 Tf
 <4e2e36222b28254931302226312b272d2e22> Tj
 ET
@@ -630,15 +606,15 @@ Q
 q
 1 0 0 -1 0 841.89 cm
 BT
-309.59999999999997 173.44440000000006 Td
+309.59999999999997 197.4492 Td
 /F2 12 Tf
-<4333> Tj
+<4233> Tj
 ET
 Q
 q
 1 0 0 -1 0 841.89 cm
 BT
-324 173.44440000000006 Td
+324 197.4492 Td
 /F4 12 Tf
 <2236243134222628223230> Tj
 ET
@@ -650,7 +626,7 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-180 161.4420000000001 Td
+180 185.44680000000002 Td
 /F4 12 Tf
 <242a2a21222a272c3021223231282834272d2e22242d342122243126292b2122242d34> Tj
 ET
@@ -662,7 +638,7 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-180 149.4396 Td
+180 173.44440000000006 Td
 /F4 12 Tf
 <2936272637> Tj
 ET
@@ -674,7 +650,7 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-252 125.43480000000008 Td
+252 149.4396 Td
 /F4 12 Tf
 <394041423e> Tj
 ET
@@ -686,7 +662,7 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-216 113.4324 Td
+216 137.43719999999993 Td
 /F4 12 Tf
 <43412b302231282a2a45> Tj
 ET
@@ -698,7 +674,7 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-180 101.43000000000004 Td
+180 125.43480000000008 Td
 /F4 12 Tf
 <4f2534303722482825222c2d2835222636302b22242a2a21222a272c3021222c2d2835> Tj
 ET
@@ -710,7 +686,7 @@ f
 q
 1 0 0 -1 0 841.89 cm
 BT
-180 89.42760000000007 Td
+180 113.4324 Td
 /F4 12 Tf
 <353628222b282522243130212231272e362647> Tj
 ET
@@ -750,7 +726,7 @@ q
 BT
 511.20000000000005 797.562 Td
 /F2 12 Tf
-<5331> Tj
+<5231> Tj
 ET
 Q
 /DeviceRGB cs
@@ -794,7 +770,7 @@ q
 BT
 216 737.5572 Td
 /F2 12 Tf
-<2652324b4326> Tj
+<2651324a4226> Tj
 ET
 Q
 q
@@ -870,7 +846,7 @@ q
 BT
 309.59999999999997 653.5404 Td
 /F2 12 Tf
-<4d26232c2b4d43> Tj
+<4c26232c2b4c42> Tj
 ET
 Q
 q
@@ -1314,7 +1290,7 @@ q
 BT
 180 149.4396 Td
 /F2 12 Tf
-<29334b> Tj
+<29334a> Tj
 ET
 Q
 q
@@ -1408,7 +1384,7 @@ q
 BT
 511.20000000000005 797.562 Td
 /F2 12 Tf
-<5431> Tj
+<5331> Tj
 ET
 Q
 /DeviceRGB cs
@@ -2014,7 +1990,7 @@ q
 BT
 511.20000000000005 797.562 Td
 /F2 12 Tf
-<5531> Tj
+<5431> Tj
 ET
 Q
 /DeviceRGB cs
@@ -2568,7 +2544,7 @@ q
 BT
 511.20000000000005 797.562 Td
 /F2 12 Tf
-<5631> Tj
+<5531> Tj
 ET
 Q
 /DeviceRGB cs
@@ -3182,7 +3158,7 @@ q
 BT
 511.20000000000005 797.562 Td
 /F2 12 Tf
-<5731> Tj
+<5631> Tj
 ET
 Q
 /DeviceRGB cs
@@ -3574,7 +3550,7 @@ q
 BT
 388.8 281.466 Td
 /F2 12 Tf
-<40334b4f3026> Tj
+<3f334a4e3026> Tj
 ET
 Q
 /DeviceRGB cs
@@ -3586,7 +3562,7 @@ q
 BT
 180 269.46360000000004 Td
 /F2 12 Tf
-<503325212b21372c2b27442150332427213827> Tj
+<4f3325212b21362c2b2743214f332427213727> Tj
 ET
 Q
 q
@@ -3752,7 +3728,7 @@ q
 BT
 511.20000000000005 797.562 Td
 /F2 12 Tf
-<5831> Tj
+<5731> Tj
 ET
 Q
 /DeviceRGB cs
@@ -4402,7 +4378,7 @@ q
 BT
 511.20000000000005 797.562 Td
 /F2 12 Tf
-<5931> Tj
+<5831> Tj
 ET
 Q
 /DeviceRGB cs
@@ -4980,7 +4956,7 @@ q
 BT
 511.20000000000005 797.562 Td
 /F2 12 Tf
-<5a31> Tj
+<5931> Tj
 ET
 Q
 /DeviceRGB cs
@@ -5180,7 +5156,7 @@ q
 BT
 381.6 557.5212 Td
 /F2 12 Tf
-<4d2b2325> Tj
+<4c2b2325> Tj
 ET
 Q
 /DeviceRGB cs
@@ -5224,7 +5200,7 @@ q
 BT
 259.2 509.51160000000004 Td
 /F2 12 Tf
-<452b25242744> Tj
+<442b25242743> Tj
 ET
 Q
 q
@@ -5618,7 +5594,7 @@ q
 BT
 504.00000000000006 797.562 Td
 /F2 12 Tf
-<5b5c31> Tj
+<5a5b31> Tj
 ET
 Q
 /DeviceRGB cs
@@ -5758,7 +5734,7 @@ q
 BT
 216 629.5356 Td
 /F2 12 Tf
-<29334b4f2326> Tj
+<29334a4e2326> Tj
 ET
 Q
 q
@@ -5838,7 +5814,7 @@ q
 BT
 180 545.5188 Td
 /F2 12 Tf
-<252c242744> Tj
+<252c242743> Tj
 ET
 Q
 q
@@ -6170,7 +6146,7 @@ q
 BT
 180 137.43719999999993 Td
 /F2 12 Tf
-<5d2443444b4325242744> Tj
+<5c2442434a4225242743> Tj
 ET
 Q
 q
@@ -6252,7 +6228,7 @@ q
 BT
 504.00000000000006 797.562 Td
 /F2 12 Tf
-<5b5b31> Tj
+<5a5a31> Tj
 ET
 Q
 /DeviceRGB cs
@@ -6890,7 +6866,7 @@ q
 BT
 504.00000000000006 797.562 Td
 /F2 12 Tf
-<5b5331> Tj
+<5a5231> Tj
 ET
 Q
 /DeviceRGB cs
@@ -7444,7 +7420,7 @@ q
 BT
 504.00000000000006 797.562 Td
 /F2 12 Tf
-<5b5431> Tj
+<5a5331> Tj
 ET
 Q
 /DeviceRGB cs
@@ -8058,7 +8034,7 @@ q
 BT
 504.00000000000006 797.562 Td
 /F2 12 Tf
-<5b5531> Tj
+<5a5431> Tj
 ET
 Q
 /DeviceRGB cs
@@ -8500,19 +8476,19 @@ endobj
 <<
 /Producer (˛ˇ P D F K i t)
 /Creator (˛ˇ a f t e r w r i t i n g . c o m)
-/CreationDate (D:20180313020403Z)
+/CreationDate (D:20180313020651Z)
 /Title (˛ˇ D i s c o n n e c t)
 /Author (˛ˇ   R a y a t   R a h m a n)
 >>
 endobj
 54 0 obj
 <<
-/Length 38384
-/Length1 38384
+/Length 38300
+/Length1 38300
 >>
 stream
-    	 0 E `cmap  é   ú   ,glyf`˝   »  Z¿loca≤>ú‡  [à   ~hmtx)k C  \   ¯hhea;
-Y  ]    $maxpV±  ]$    postë¿  ]D   ûnameáüH  ]‰  7‘head˙BñÖ  ï∏   6                   ]ˇˇ   !ˇˇˇ‡       ˇˆˇÍ÷£ 7 —∏ 8/∏ 9/∏ 8∏ –∏ /∏ 
+    	 0 E `cmap  ç   ú   ,glyf2qx   »  Zxlocaín®¿  [@   |hmtx$ü;  [º   Ùhhea;
+X  \∞   $maxpU±  \‘    postÕ@  \Ù   únameáüH  ]ê  7‘head˙BñÖ  ïd   6                   \ˇˇ   !ˇˇˇ‡       ˇˆˇÍ÷£ 7 —∏ 8/∏ 9/∏ 8∏ –∏ /∏ 
 –A f 
  ]∫   
 9∏ 9∏ #–∏ –A i  ]∫  # 9 ∏  EX∏ /π  >Y∏  EX∏ /π  >Y∏  EX∏ +/π + 
@@ -8584,10 +8560,7 @@ Y  ]    $maxpV±  ]$    postë¿  ]D   ûnameáüH  ]‰  7‘head˙BñÖ  ï∏   6     
 ]A 	    q ∏  EX∏ /π  >Y∏  EX∏ /π  
 >Yπ  ÙA g  w  á  ó  ß  ∑  «  ◊  Á  ˜  
 ]A     qA &  6  q∏ π # ÙA ) # 9 # qA h # x # à # ò # ® # ∏ # » # ÿ # Ë # ¯ # 
-]A  #  # q014>32#".732>54.#"xKÑµjjµÑKKÑµjjµÑKû1X|KK|X11X|KK|X1Œj±ÅHHÅ±jj±ÅHHÅ±jI{Z22Z{II{Z22Z{ 	A`   '%.67>'	˛
-m
-#£%
-     P  L£ ;∏ =/∏ /∏ ;/∏ /∏ π  Ù∏ ;π & Ù∏ –A Ø  ]∏ π  Ù∏ %–∏ =π 0 Ùπ ( Ù ∏ &/∏  EX∏ /π  >Y∏  EX∏ 3/π 3 
+]A  #  # q014>32#".732>54.#"xKÑµjjµÑKKÑµjjµÑKû1X|KK|X11X|KK|X1Œj±ÅHHÅ±jj±ÅHHÅ±jI{Z22Z{II{Z22Z{  P  L£ ;∏ =/∏ /∏ ;/∏ /∏ π  Ù∏ ;π & Ù∏ –A Ø  ]∏ π  Ù∏ %–∏ =π 0 Ùπ ( Ù ∏ &/∏  EX∏ /π  >Y∏  EX∏ 3/π 3 
 >Y∏ π   Ù∏ π  ÙA h  ]∏  ∏ –∏ –A ü & Ø & ]∏ &π  Ùπ  ÙA ê  †  ]∏ &π ! ÙA ü ! Ø ! ]∏ 3π ' Ù∏ 3π , ÙA g , ]∏ '∏ :–∏ ;–01#"&5463!2#"&=!354632#"&=#!54632#!"&546;ıf""j"!**!˝È˙!**!!**!˙+!**!"¸Ç""f&&&˛##∫˛ç[##˛¬##[˛hÂ##˛◊&&&     2  ö£ C È∏ C/∏ #/A ñ C ]∏ C∏ –π  ÙA ô # ]∏ #∏ !–π  Ù∏ #π 2 Ù∏ Cπ 4 Ù ∏  EX∏ /π  >Y∏  EX∏ /π  >Y∏  EX∏ */π * 
 >Y∏  EX∏ ;/π ; 
 >Y∏ π  Ù∏ –∏ –∫  * 9∏ –∏ –∏  –∏ !–∏ *π # Ù∏ 1–∏ 2–∫ 3 * 9∏ 4–∏ 5–∏ B–∏ C–01	#"&5463!2+#"&5463!2+	32#!"&546;32#!"&546;˛»E""X""Y›ﬁ<""0""A˛ÀZ:""˛û""mˇ˛˚S""˛º"">k∞&&&&˛ƒ<&&&&˛N˛&&&&m˛ì&&&&  z  R£ ) â∏ */∏ +/∏ )/∏ *π  ÙA ê  ]π  Ù∏ +π  ÙA ü  ]π  Ù∏ )π  Ù ∏  EX∏ /π  >Y∏  EX∏ "/π " 
@@ -8756,11 +8729,12 @@ Y  ]    $maxpV±  ]$    postë¿  ]D   ûnameáüH  ]‰  7‘head˙BñÖ  ï∏   6     
 ]A  #  # q014>32#".732>54.#"º<oùbaûo<<oûabùo<û(Gb;;bG((Gb;;bG(Qã„¢XX¢„ãã„°XX°„ãpÆw>>wÆppÆx>>xÆ  P  t£  ' Õ∏ )/ª &   +∏ &π   Ù∏ )π  ÙA ô  ]∏ ∏ –∏ π   ÙA *   :   qA i   y   â   ô   ©   π   …   Ÿ   È   ˘   
 ]A 	      q ∏  EX∏ /π  >Y∏  EX∏ /π  
 >Y∏ π   Ù∏ π  Ù∏  ∏ &–∏ ∏ '–01#"&5463!2#!"&546;!2>54.+ˇp""◊v¬äLLä¬v˛)""pPYêf88fêY∫&&Rô‹ãã‹ôQ&&;s´pp´t;¸m        ºB∆JÃÃ¶¶‘æ	Ê
-æ»,÷XRÜ¶||"∆ŒÇ˛&¸TºÇ¶ê& “!.!V"\#R$2%%˙&r'F(n(Œ*F+h+∆,¿-`  Ã  Ã  ÃˇˆÃ ìÃ ªÃ uÃ íÃ MÃ %Ã 2Ã PÃ áÃ MÃˇ¸Ã 2Ã ±Ã 2ÃΩÃ Ã xÃÃ PÃ 2Ã zÃ XÃ PÃ PÃ ™Ã Ã 
+æ»ﬁ≤4.ﬁbÇXÚX˛¢™^⁄ÿ0ò^ÇlÃ Æ!
+!2"8#.$$Ë%÷&N'"(J(™*"+D+¢,ú-<Ã  Ã  ÃˇˆÃ ìÃ ªÃ uÃ íÃ MÃ %Ã 2Ã PÃ áÃ MÃˇ¸Ã 2Ã ±Ã 2ÃΩÃ Ã xÃ PÃ 2Ã zÃ XÃ PÃ PÃ ™Ã Ã 
 Ã »Ã 
-Ã <Ã vÃ ªÃ ≥Ã Ã Ã ≥Ã PÃ PÃsÃˇˆÃ HÃ CÃ ÃÃÃÂÃ bÃ ˛Ã FÃ ªÃ ªÃ ìÃ ∑Ã …Ã ÂÃ ŒÃ ¿Ã ÏÃ ºÃ P   ç˝}  d˛ ˛9ã                >    > z  t       
-   ¡         ˇG Ç                    >    : U L W H Q E \ 5 D K P # O Y  F R C ( ; 7 2 ) 3  0 $ , 9 < & I V J G  / +  Z X N S  
- * " [           '     >        &    	   L &        r  	           ô  	   †       % Æ  	  J ”         	  *       B  	  O       i       |  	  $é      	 ≤  	 	 "√       Â  	  6        6  	  ,L      Ax  	 "Çπ       6;  	  46U       6âCopyright (c) 2013 Quote-Unquote Apps. C o p y r i g h t   ( c )   2 0 1 3   Q u o t e - U n q u o t e   A p p s .Courier Prime C o u r i e r   P r i m eRegular R e g u l a rQuoteUnquoteApps: Courier Prime: 2013 Q u o t e U n q u o t e A p p s :   C o u r i e r   P r i m e :   2 0 1 3Courier Prime C o u r i e r P r i m eVersion 1.203 V e r s i o n   1 . 2 0 3AAAAAA+CourierPrimeQuote-Unquote Apps Q u o t e - U n q u o t e   A p p sAlan Dague-Greene A l a n   D a g u e - G r e e n ehttp://quoteunquoteapps.com h t t p : / / q u o t e u n q u o t e a p p s . c o mhttp://basicrecipe.com h t t p : / / b a s i c r e c i p e . c o mCopyright (c) 2013, Quote-Unquote Apps (http://quoteunquoteapps.com), with Reserved Font Name Courier Prime.This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
+Ã <Ã vÃ ªÃ ≥Ã Ã Ã ≥Ã PÃ PÃsÃˇˆÃ HÃ CÃ ÃÃÃÂÃ bÃ ˛Ã FÃ ªÃ ªÃ ìÃ ∑Ã …Ã ÂÃ ŒÃ ¿Ã ÏÃ ºÃ P   ç˝}  d˛ ˛9ã                =    = z  t       
+   ¡         ˇG Ç                    =    : U L W H Q E \ 5 D K P # O Y  F R ( ; 7 2 ) 3  0 $ , 9 < & I V J G  / +  Z X N S  
+ * " [           '   >        &    	   L &        r  	           ô  	   †       % Æ  	  J ”         	  *       B  	  O       i       |  	  $é      	 ≤  	 	 "√       Â  	  6        6  	  ,L      Ax  	 "Çπ       6;  	  46U       6âCopyright (c) 2013 Quote-Unquote Apps. C o p y r i g h t   ( c )   2 0 1 3   Q u o t e - U n q u o t e   A p p s .Courier Prime C o u r i e r   P r i m eRegular R e g u l a rQuoteUnquoteApps: Courier Prime: 2013 Q u o t e U n q u o t e A p p s :   C o u r i e r   P r i m e :   2 0 1 3Courier Prime C o u r i e r P r i m eVersion 1.203 V e r s i o n   1 . 2 0 3AAAAAA+CourierPrimeQuote-Unquote Apps Q u o t e - U n q u o t e   A p p sAlan Dague-Greene A l a n   D a g u e - G r e e n ehttp://quoteunquoteapps.com h t t p : / / q u o t e u n q u o t e a p p s . c o mhttp://basicrecipe.com h t t p : / / b a s i c r e c i p e . c o mCopyright (c) 2013, Quote-Unquote Apps (http://quoteunquoteapps.com), with Reserved Font Name Courier Prime.This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
 -----------------------------------------------------------SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
 -----------------------------------------------------------PREAMBLEThe goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.DEFINITIONS"Font Software" refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation."Reserved Font Name" refers to any names specified as such after the copyright statement(s)."Original Version" refers to the collection of Font Software components as distributed by the Copyright Holder(s)."Modified Version" refers to any derivative made by adding to, deleting, or substituting -- in part or in whole -- any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment."Author" refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.PERMISSION & CONDITIONSPermission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:
 1) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.
@@ -8774,7 +8748,7 @@ Y  ]    $maxpV±  ]$    postë¿  ]D   ûnameáüH  ]‰  7‘head˙BñÖ  ï∏   6     
  2 )   O r i g i n a l   o r   M o d i f i e d   V e r s i o n s   o f   t h e   F o n t   S o f t w a r e   m a y   b e   b u n d l e d ,   r e d i s t r i b u t e d   a n d / o r   s o l d   w i t h   a n y   s o f t w a r e ,   p r o v i d e d   t h a t   e a c h   c o p y   c o n t a i n s   t h e   a b o v e   c o p y r i g h t   n o t i c e   a n d   t h i s   l i c e n s e .   T h e s e   c a n   b e   i n c l u d e d   e i t h e r   a s   s t a n d - a l o n e   t e x t   f i l e s ,   h u m a n - r e a d a b l e   h e a d e r s   o r   i n   t h e   a p p r o p r i a t e   m a c h i n e - r e a d a b l e   m e t a d a t a   f i e l d s   w i t h i n   t e x t   o r   b i n a r y   f i l e s   a s   l o n g   a s   t h o s e   f i e l d s   c a n   b e   e a s i l y   v i e w e d   b y   t h e   u s e r .   
  3 )   N o   M o d i f i e d   V e r s i o n   o f   t h e   F o n t   S o f t w a r e   m a y   u s e   t h e   R e s e r v e d   F o n t   N a m e ( s )   u n l e s s   e x p l i c i t   w r i t t e n   p e r m i s s i o n   i s   g r a n t e d   b y   t h e   c o r r e s p o n d i n g   C o p y r i g h t   H o l d e r .   T h i s   r e s t r i c t i o n   o n l y   a p p l i e s   t o   t h e   p r i m a r y   f o n t   n a m e   a s   p r e s e n t e d   t o   t h e   u s e r s .   
  4 )   T h e   n a m e ( s )   o f   t h e   C o p y r i g h t   H o l d e r ( s )   o r   t h e   A u t h o r ( s )   o f   t h e   F o n t   S o f t w a r e   s h a l l   n o t   b e   u s e d   t o   p r o m o t e ,   e n d o r s e   o r   a d v e r t i s e   a n y   M o d i f i e d   V e r s i o n ,   e x c e p t   t o   a c k n o w l e d g e   t h e   c o n t r i b u t i o n ( s )   o f   t h e   C o p y r i g h t   H o l d e r ( s )   a n d   t h e   A u t h o r ( s )   o r   w i t h   t h e i r   e x p l i c i t   w r i t t e n   p e r m i s s i o n .   
- 5 )   T h e   F o n t   S o f t w a r e ,   m o d i f i e d   o r   u n m o d i f i e d ,   i n   p a r t   o r   i n   w h o l e ,   m u s t   b e   d i s t r i b u t e d   e n t i r e l y   u n d e r   t h i s   l i c e n s e ,   a n d   m u s t   n o t   b e   d i s t r i b u t e d   u n d e r   a n y   o t h e r   l i c e n s e .   T h e   r e q u i r e m e n t   f o r   f o n t s   t o   r e m a i n   u n d e r   t h i s   l i c e n s e   d o e s   n o t   a p p l y   t o   a n y   d o c u m e n t   c r e a t e d   u s i n g   t h e   F o n t   S o f t w a r e .   T E R M I N A T I O N  T h i s   l i c e n s e   b e c o m e s   n u l l   a n d   v o i d   i f   a n y   o f   t h e   a b o v e   c o n d i t i o n s   a r e   n o t   m e t .   D I S C L A I M E R  T H E   F O N T   S O F T W A R E   I S   P R O V I D E D   " A S   I S " ,   W I T H O U T   W A R R A N T Y   O F   A N Y   K I N D ,   E X P R E S S   O R   I M P L I E D ,   I N C L U D I N G   B U T   N O T   L I M I T E D   T O   A N Y   W A R R A N T I E S   O F   M E R C H A N T A B I L I T Y ,   F I T N E S S   F O R   A   P A R T I C U L A R   P U R P O S E   A N D   N O N I N F R I N G E M E N T   O F   C O P Y R I G H T ,   P A T E N T ,   T R A D E M A R K ,   O R   O T H E R   R I G H T .   I N   N O   E V E N T   S H A L L   T H E   C O P Y R I G H T   H O L D E R   B E   L I A B L E   F O R   A N Y   C L A I M ,   D A M A G E S   O R   O T H E R   L I A B I L I T Y ,   I N C L U D I N G   A N Y   G E N E R A L ,   S P E C I A L ,   I N D I R E C T ,   I N C I D E N T A L ,   O R   C O N S E Q U E N T I A L   D A M A G E S ,   W H E T H E R   I N   A N   A C T I O N   O F   C O N T R A C T ,   T O R T   O R   O T H E R W I S E ,   A R I S I N G   F R O M ,   O U T   O F   T H E   U S E   O R   I N A B I L I T Y   T O   U S E   T H E   F O N T   S O F T W A R E   O R   F R O M   O T H E R   D E A L I N G S   I N   T H E   F O N T   S O F T W A R E .http://scripts.sil.org/OFL h t t p : / / s c r i p t s . s i l . o r g / O F LCourier Prime    3¯Kxã_<ı 	     Õø†    Õ∂˛ ¸∫ã          
+ 5 )   T h e   F o n t   S o f t w a r e ,   m o d i f i e d   o r   u n m o d i f i e d ,   i n   p a r t   o r   i n   w h o l e ,   m u s t   b e   d i s t r i b u t e d   e n t i r e l y   u n d e r   t h i s   l i c e n s e ,   a n d   m u s t   n o t   b e   d i s t r i b u t e d   u n d e r   a n y   o t h e r   l i c e n s e .   T h e   r e q u i r e m e n t   f o r   f o n t s   t o   r e m a i n   u n d e r   t h i s   l i c e n s e   d o e s   n o t   a p p l y   t o   a n y   d o c u m e n t   c r e a t e d   u s i n g   t h e   F o n t   S o f t w a r e .   T E R M I N A T I O N  T h i s   l i c e n s e   b e c o m e s   n u l l   a n d   v o i d   i f   a n y   o f   t h e   a b o v e   c o n d i t i o n s   a r e   n o t   m e t .   D I S C L A I M E R  T H E   F O N T   S O F T W A R E   I S   P R O V I D E D   " A S   I S " ,   W I T H O U T   W A R R A N T Y   O F   A N Y   K I N D ,   E X P R E S S   O R   I M P L I E D ,   I N C L U D I N G   B U T   N O T   L I M I T E D   T O   A N Y   W A R R A N T I E S   O F   M E R C H A N T A B I L I T Y ,   F I T N E S S   F O R   A   P A R T I C U L A R   P U R P O S E   A N D   N O N I N F R I N G E M E N T   O F   C O P Y R I G H T ,   P A T E N T ,   T R A D E M A R K ,   O R   O T H E R   R I G H T .   I N   N O   E V E N T   S H A L L   T H E   C O P Y R I G H T   H O L D E R   B E   L I A B L E   F O R   A N Y   C L A I M ,   D A M A G E S   O R   O T H E R   L I A B I L I T Y ,   I N C L U D I N G   A N Y   G E N E R A L ,   S P E C I A L ,   I N D I R E C T ,   I N C I D E N T A L ,   O R   C O N S E Q U E N T I A L   D A M A G E S ,   W H E T H E R   I N   A N   A C T I O N   O F   C O N T R A C T ,   T O R T   O R   O T H E R W I S E ,   A R I S I N G   F R O M ,   O U T   O F   T H E   U S E   O R   I N A B I L I T Y   T O   U S E   T H E   F O N T   S O F T W A R E   O R   F R O M   O T H E R   D E A L I N G S   I N   T H E   F O N T   S O F T W A R E .http://scripts.sil.org/OFL h t t p : / / s c r i p t s . s i l . o r g / O F LCourier Prime    3¯¡&}w_<ı 	     Õø†    Õ∂˛ ¸∫ã          
 endstream
 endobj
 55 0 obj
@@ -8794,7 +8768,7 @@ endobj
 endobj
 56 0 obj
 <<
-/Length 997
+/Length 986
 >>
 stream
 /CIDInit /ProcSet findresource begin
@@ -8810,7 +8784,7 @@ begincmap
 1 begincodespacerange
 <00><ff>
 endcodespacerange
-61 beginbfchar
+60 beginbfchar
 <21><0020>
 <22><0057>
 <23><0072>
@@ -8830,48 +8804,47 @@ endcodespacerange
 <31><002e>
 <32><0063>
 <33><006f>
-<34><0060>
-<35><0045>
-<36><0058>
-<37><0054>
-<38><004f>
-<39><0046>
-<3a><0050>
-<3b><002d>
-<3c><004d>
-<3d><0041>
-<3e><0049>
-<3f><0056>
-<40><0059>
-<41><0043>
-<42><0066>
-<43><0073>
-<44><0067>
-<45><0064>
-<46><0024>
-<47><004c>
-<48><0048>
-<49><002c>
-<4a><0077>
-<4b><0075>
-<4c><006b>
-<4d><0070>
-<4e><0021>
-<4f><0027>
-<50><0047>
-<51><003f>
-<52><0078>
-<53><0032>
-<54><0033>
-<55><0034>
-<56><0035>
-<57><0036>
-<58><0037>
-<59><0038>
-<5a><0039>
-<5b><0031>
-<5c><0030>
-<5d><0044>
+<34><0045>
+<35><0058>
+<36><0054>
+<37><004f>
+<38><0046>
+<39><0050>
+<3a><002d>
+<3b><004d>
+<3c><0041>
+<3d><0049>
+<3e><0056>
+<3f><0059>
+<40><0043>
+<41><0066>
+<42><0073>
+<43><0067>
+<44><0064>
+<45><0024>
+<46><004c>
+<47><0048>
+<48><002c>
+<49><0077>
+<4a><0075>
+<4b><006b>
+<4c><0070>
+<4d><0021>
+<4e><0027>
+<4f><0047>
+<50><003f>
+<51><0078>
+<52><0032>
+<53><0033>
+<54><0034>
+<55><0035>
+<56><0036>
+<57><0037>
+<58><0038>
+<59><0039>
+<5a><0031>
+<5b><0030>
+<5c><0044>
 endbfchar
 endcmap
 CMapName currentdict /CMap defineresource pop
@@ -8887,8 +8860,8 @@ endobj
 /Subtype /TrueType
 /FontDescriptor 55 0 R
 /FirstChar 33
-/LastChar 93
-/Widths [600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600]
+/LastChar 92
+/Widths [600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600]
 /Encoding /MacRomanEncoding
 /ToUnicode 56 0 R
 >>
@@ -9337,68 +9310,68 @@ endobj
 xref
 0 63
 0000000000 65535 f 
-0000203018 00000 n 
-0000202969 00000 n 
+0000202660 00000 n 
+0000202611 00000 n 
 0000000351 00000 n 
 0000000213 00000 n 
 0000000103 00000 n 
 0000000015 00000 n 
 0000000059 00000 n 
-0000162227 00000 n 
-0000143677 00000 n 
-0000001412 00000 n 
-0000001283 00000 n 
-0000001170 00000 n 
-0000202508 00000 n 
-0000008844 00000 n 
-0000008715 00000 n 
-0000008602 00000 n 
-0000016673 00000 n 
-0000016544 00000 n 
-0000016431 00000 n 
-0000024129 00000 n 
-0000024000 00000 n 
-0000023887 00000 n 
-0000030767 00000 n 
-0000030638 00000 n 
-0000030525 00000 n 
-0000038400 00000 n 
-0000038271 00000 n 
-0000038158 00000 n 
-0000045004 00000 n 
-0000044875 00000 n 
-0000044762 00000 n 
-0000053340 00000 n 
-0000053211 00000 n 
-0000053098 00000 n 
-0000060175 00000 n 
-0000060046 00000 n 
-0000059933 00000 n 
-0000067948 00000 n 
-0000067819 00000 n 
-0000067706 00000 n 
-0000075572 00000 n 
-0000075443 00000 n 
-0000075330 00000 n 
-0000083904 00000 n 
-0000083775 00000 n 
-0000083662 00000 n 
-0000090597 00000 n 
-0000090468 00000 n 
-0000090355 00000 n 
-0000098230 00000 n 
-0000098101 00000 n 
-0000097988 00000 n 
-0000103765 00000 n 
-0000103965 00000 n 
-0000142418 00000 n 
-0000142628 00000 n 
-0000144110 00000 n 
-0000161547 00000 n 
-0000161762 00000 n 
-0000162453 00000 n 
-0000201186 00000 n 
-0000201403 00000 n 
+0000161869 00000 n 
+0000143323 00000 n 
+0000001300 00000 n 
+0000001171 00000 n 
+0000001058 00000 n 
+0000202150 00000 n 
+0000008585 00000 n 
+0000008456 00000 n 
+0000008343 00000 n 
+0000016414 00000 n 
+0000016285 00000 n 
+0000016172 00000 n 
+0000023870 00000 n 
+0000023741 00000 n 
+0000023628 00000 n 
+0000030508 00000 n 
+0000030379 00000 n 
+0000030266 00000 n 
+0000038141 00000 n 
+0000038012 00000 n 
+0000037899 00000 n 
+0000044745 00000 n 
+0000044616 00000 n 
+0000044503 00000 n 
+0000053081 00000 n 
+0000052952 00000 n 
+0000052839 00000 n 
+0000059916 00000 n 
+0000059787 00000 n 
+0000059674 00000 n 
+0000067689 00000 n 
+0000067560 00000 n 
+0000067447 00000 n 
+0000075313 00000 n 
+0000075184 00000 n 
+0000075071 00000 n 
+0000083645 00000 n 
+0000083516 00000 n 
+0000083403 00000 n 
+0000090338 00000 n 
+0000090209 00000 n 
+0000090096 00000 n 
+0000097971 00000 n 
+0000097842 00000 n 
+0000097729 00000 n 
+0000103506 00000 n 
+0000103706 00000 n 
+0000142075 00000 n 
+0000142285 00000 n 
+0000143752 00000 n 
+0000161189 00000 n 
+0000161404 00000 n 
+0000162095 00000 n 
+0000200828 00000 n 
+0000201045 00000 n 
 trailer
 <<
 /Size 62
@@ -9406,5 +9379,5 @@ trailer
 /Info 53 0 R
 >>
 startxref
-203174
+202816
 %%EOF
